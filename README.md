@@ -1,5 +1,4 @@
 👋 Hi, I’m @AshHunter404
-🌱 I’m currently learning Python
 
 <!---
 AshHunter404/AshHunter404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
